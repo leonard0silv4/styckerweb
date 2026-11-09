@@ -12,4 +12,4 @@ Versões exatas estão em `package-lock.json`. Metadados npm e documentação of
 
 A candidata [IMG.LY](https://github.com/imgly/background-removal-js) não foi incorporada: não é tratada como permissiva. O BRIA RMBG também não foi incorporado.
 
-Licenças e avisos de dependências continuam nos pacotes instalados. Não remover avisos dos binários ao redistribuir. A licença do código próprio do projeto cabe ao proprietário; não foi atribuída uma licença de código aberto sem sua escolha.
+Avisos completos dos componentes distribuídos estão em `public/third-party-notices.txt`, publicado em `/third-party-notices.txt`. Licenças e avisos de dependências continuam também nos pacotes instalados. Não remover avisos dos binários ao redistribuir. A licença do código próprio do projeto cabe ao proprietário; não foi atribuída uma licença de código aberto sem sua escolha.

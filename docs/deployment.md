@@ -3,6 +3,7 @@
 - Repo: https://github.com/leonard0silv4/styckerweb
 - Provider: GitHub.
 - Branch de produção: `main`.
+- Vercel project: `styckerweb` (`prj_g5fNa0ssVzps857WGWzrhckRCXFP`).
 - Vercel team: `leo07vasps-projects` (`team_VBb22ieA6Abo91Flqc81jE0y`).
 - Framework Vite. Node 24. Instalação `npm ci`, build `npm run build`, saída `dist`.
 - Sem secrets ou variáveis de ambiente necessárias.
