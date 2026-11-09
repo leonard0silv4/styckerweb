@@ -1,5 +1,6 @@
 # Publicação
 
+- Produção: https://styckerweb.vercel.app (acesso público, sem login Vercel).
 - Repo: https://github.com/leonard0silv4/styckerweb
 - Provider: GitHub.
 - Branch de produção: `main`.

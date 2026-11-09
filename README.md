@@ -1,5 +1,7 @@
 # Minhas Figurinhas
 
+**App publicado:** https://styckerweb.vercel.app
+
 PWA em português para criar figurinhas no celular. Importe uma foto, recorte no próprio aparelho, adicione textos, salve na coleção e copie/compartilhe/baixe o resultado.
 
 ## Executar
