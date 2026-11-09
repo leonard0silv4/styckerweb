@@ -108,7 +108,7 @@ export function MaskEditor({
               if (mode === "crop") {
                 const ctx = e.currentTarget.getContext("2d")!;
                 ctx.putImageData(snapshot.current!, 0, 0);
-                ctx.strokeStyle = "#517b3e";
+                ctx.strokeStyle = "#4f46d8";
                 ctx.lineWidth = 4;
                 ctx.strokeRect(
                   drag.current.x,

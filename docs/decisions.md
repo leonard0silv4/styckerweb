@@ -9,3 +9,4 @@
 7. **Projeto próprio, sem JSON Fabric externo**: registros aceitam apenas campos permitidos. Fotos e textos são reconstruídos explicitamente.
 8. **Offline com atualização consentida**: prompt de nova versão fora de edição; fontes locais. Sem reload inesperado.
 9. **Autoria**: commits apenas com nome do proprietário, sem coautoria de ferramentas.
+10. **Identidade visual própria**: por solicitação do proprietário, substituímos a paleta verde por azul-violeta (`#4f46d8`), lavanda e coral, com fundo claro frio (`#f7f7ff`). A escolha vale também para splash, ícones de instalação e cores do manifesto, diferenciando o app da referência PWA Plant.

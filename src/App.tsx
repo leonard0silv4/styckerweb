@@ -302,7 +302,7 @@ export default function App() {
                       Tem coisa que só
                       <br />
                       uma <span className="hand-underline">figurinha</span> diz
-                      <span className="green-period">.</span>
+                      <span className="accent-period">.</span>
                     </h1>
                     <p>
                       Transforme suas fotos em reações.

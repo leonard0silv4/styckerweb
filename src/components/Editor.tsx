@@ -97,12 +97,12 @@ export function Editor({ existing, save, close, notify }: Props) {
     });
     fabric.current = c;
     FabricObject.ownDefaults.cornerStyle = "circle";
-    FabricObject.ownDefaults.cornerColor = "#b7ed85";
-    FabricObject.ownDefaults.cornerStrokeColor = "#35512b";
+    FabricObject.ownDefaults.cornerColor = "#b9b0ff";
+    FabricObject.ownDefaults.cornerStrokeColor = "#302b70";
     FabricObject.ownDefaults.transparentCorners = false;
     FabricObject.ownDefaults.cornerSize = 13;
     FabricObject.ownDefaults.touchCornerSize = 30;
-    FabricObject.ownDefaults.borderColor = "#517b3e";
+    FabricObject.ownDefaults.borderColor = "#4f46d8";
     const onSelection = () => {
       const o = c.getActiveObject() as
         (FabricObject & { layerId?: string }) | undefined;
@@ -632,7 +632,7 @@ export function Editor({ existing, save, close, notify }: Props) {
                   />
                 </label>
                 <div className="swatches">
-                  {["#ffffff", "#252b24", "#c4f18c", "#f6bdce", "#b8c8ef"].map(
+                  {["#ffffff", "#20243b", "#b9b0ff", "#ffc6b5", "#c6dcff"].map(
                     (color) => (
                       <button
                         key={color}
